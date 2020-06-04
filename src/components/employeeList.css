@@ -1,0 +1,11 @@
+.container {
+  background-image: url("https://images.unsplash.com/photo-1527239441953-caffd968d952?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80");
+  text-align: center;
+  height: 200px;
+}
+
+h1 {
+  font-family: 'Passion One', cursive;
+  font-size: 70px;
+}
+
