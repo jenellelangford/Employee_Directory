@@ -5,11 +5,10 @@ function SearchForm(props) {
     <form align="center">
       <div className="form-group">
         <input
-          value={props.handleInputChange}
+          type="text"
           name="search"
           list="employees"
-          type="text"
-          placeholder="Search Employee"
+          placeholder="Search By First Name"
           id="search"
         />
         <button onClick={props.handleFormSubmit} className="btn btn-primary">
